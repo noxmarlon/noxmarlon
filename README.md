@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noxmarlon&theme=white-green)
+
 
 <!--
 **noxmarlon/noxmarlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noxmarlon&theme=white-green)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
